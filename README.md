@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Tailwind-CSS-blue?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-v3.1-black?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FlaskWTF-v1.2-black?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-v3.13-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-Database-336791?logo=sqlite&logoColor=white" />
