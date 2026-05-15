@@ -18,13 +18,13 @@
 
 <p>Originally born and raised in Fergana, Uzbekistan, I'm currently based in Daejeon, South Korea, studying my bachelor's degree at KAIST.</p>
 
-<p>Philosophy has been a significant part of my life. Camus, Nietzsche, and Seneca are my enduring literary obsessions. </p>
+<!-- <p>Philosophy has been a significant part of my life. Camus, Nietzsche, and Seneca are my enduring literary obsessions. </p>
 
 Despite the fact that my background is in Web Development, I want to go deeper into BCIs and computer engineering to understand how we can improve the quality of life for all.
 
 I like classical music, and have been practicing piano for the past 2 years. I've been particularly interested in Chopin and Liszt.
 
-Warm regards!
+Warm regards! -->
 
 <hr>
 
