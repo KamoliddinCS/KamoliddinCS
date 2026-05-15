@@ -28,4 +28,4 @@ Warm regards! -->
 
 <hr>
 
-<i>For more information, feel free to refer to my <a href="https://yulbarsov.uz" target="_blank">page</a></i>
+<i>Check out my <a href="https://yulbarsov.uz" target="_blank">page</a>.</i>
